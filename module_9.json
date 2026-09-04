@@ -1,0 +1,15 @@
+{
+  "name": "helix-protocol-4673",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 2821,
+    "createdAt": "2026-09-04T03:08:34.991Z"
+  }
+}
